@@ -1,3 +1,4 @@
+#include"Tic-Tac-Toe.h"
 int main()
 {
     FILE *p;
@@ -37,7 +38,7 @@ int main()
 
         player=((player%2)?1:2);
         if(player==1)
-        printf("%s Type any digit from 1-9 : ",k);
+        printf("%s Type a number between 1-9 : ",k);
         else
             printf("%s Type any digit from 1-9 : ",l);
         scanf("%d",&choice);
