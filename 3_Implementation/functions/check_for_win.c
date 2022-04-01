@@ -1,3 +1,4 @@
+#include"Tic-Tac-Toe.h"
 int check_for_win()
 {
     if(a[0]==a[1] && a[1]==a[2])
