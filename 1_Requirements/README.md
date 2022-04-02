@@ -15,7 +15,7 @@ b)	 Visual Studio/Code::Blocks software/Dev-C++.
 
 ## Functional requirements: -
 
-we used the concepts of functions, pointers,multi file programming. file handling and data structures.
+we used the concepts of functions, pointers,multi file programming,file handling and data structures.
 
 #### These are the basic user defined functions that are used in the code: -
 
