@@ -1,6 +1,6 @@
 # Tic-Tac-Toe.
 
-## TESTPLAN :
+## TESTCASE:
 
 |Sl no.| Test Scenario | Test data |
 |:----|:------------|:--------|
