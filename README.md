@@ -13,3 +13,7 @@
   
  * Valgrind
  [![Valgrind](https://github.com/AVINASH-P-1912/M1_Tic-Tac-Toe/actions/workflows/valgrind.yml/badge.svg)](https://github.com/AVINASH-P-1912/M1_Tic-Tac-Toe/actions/workflows/valgrind.yml)
+
+
+* Cpp check
+[![cppcheck-action](https://github.com/AVINASH-P-1912/M1_Tic-Tac-Toe/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AVINASH-P-1912/M1_Tic-Tac-Toe/actions/workflows/c-cpp.yml)
